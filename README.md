@@ -30,7 +30,7 @@ Let's connect and build something amazing together!
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=noel-odero&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noel-odero&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noel-odero&show_icons=true&theme=tokyonight)  
 
