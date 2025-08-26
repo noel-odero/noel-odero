@@ -28,11 +28,14 @@ Let's connect and build something amazing together!
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=noel-odero&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noel-odero&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats  
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=noel-odero&theme=tokyonight&hide_border=true)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noel-odero&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noel-odero&layout=compact&theme=tokyonight)
+
 
 ## ⚡ Fun Fact
 💡 I write codes by the day, and debate to release frustrations by night! Come let's argue
