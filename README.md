@@ -29,10 +29,10 @@ Let's connect and build something amazing together!
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=noel-odero&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noel-odero&show_icons=true&theme=tokyonight)
 
 ---
 
 ## ⚡ Fun Fact
-💡 My code works 90% of the time — the other 10% I just blame it on the compiler 😅
+💡 I write codes by the day, and debate to release frustrations by night! Come let's argue
