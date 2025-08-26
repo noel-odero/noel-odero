@@ -21,7 +21,7 @@ Let's connect and build something amazing together!
 ---
 
 ## 📫 Connect with Me
--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjeline-noel-odero-456841265/)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjeline-noel-odero-456841265/)  
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anoel.odero@gmail.com)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__miss.noel/)
 
@@ -30,7 +30,7 @@ Let's connect and build something amazing together!
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=noel-odero&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=noel-odero&theme=tokyonight&hide_border=true)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noel-odero&show_icons=true&theme=tokyonight)  
 
