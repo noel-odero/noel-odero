@@ -17,7 +17,10 @@ Let's connect and build something amazing together!
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
 ---
 
 ## 📫 Connect with Me
